@@ -65,7 +65,14 @@ public class Main {
             });
 
         }
-
+        /* 
+        for (Employee emp : employees) {
+            Employee current = highestPaidByDepartment.get(emp.getDepartment());
+            if (current == null || emp.getSalary() > current.getSalary()) {
+                highestPaidByDepartment.put(emp.getDepartment(), emp);
+            }
+        }
+        */
         // Print the highest paid employee in each department
         System.out.println("");
 

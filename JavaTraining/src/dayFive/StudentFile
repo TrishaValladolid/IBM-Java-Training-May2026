@@ -1,0 +1,12 @@
+{
+    {
+        "id": "ABCD123",
+        "name": "Juan Dela Cruz",
+        "course":"Computer Ehgineering",
+    },
+    {
+        "id": "XYZ123",
+        "name": "Taro Yamada",
+        "course": "Computer Science"
+    }
+}
