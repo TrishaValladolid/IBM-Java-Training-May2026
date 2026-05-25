@@ -1,0 +1,17 @@
+[
+ {
+  "id": "ABCD123",
+  "name": "Juan Dela Cruz",
+  "course": "Computer Engineering"
+ },
+ {
+  "id": "EFG456",
+  "name": "Shaimma Salic",
+  "course": "Computer Science"
+ },
+ {
+  "id": "HIJ789",
+  "name": "Georgette Lim",
+  "course": "Data Science"
+ }
+]
