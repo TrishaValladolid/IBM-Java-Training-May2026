@@ -112,6 +112,6 @@ public class SwitchandLoops {
 		// dayOne.dayOfTheWeek();
 		 
 		// LOOPS - PYRAMID
-		// dayOne.displayPyramid();
+		 dayOne.displayPyramid();
 	}
 }
