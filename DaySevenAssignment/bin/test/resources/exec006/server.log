@@ -1,0 +1,4 @@
+[2025-01-15 14:30:17] ERROR: Payment gateway timeout
+[2025-01-15 14:15:08] INFO: Transaction initiated
+[2025-01-15 14:45:55] WARN: Retry limit approaching
+[2025-01-15 14:10:03] INFO: Session opened

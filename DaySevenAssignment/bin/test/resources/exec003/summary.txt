@@ -1,0 +1,12 @@
+Log Summary Report
+------------------
+Total Entries: 2
+INFO: 0
+WARN: 1
+ERROR: 1
+
+Error Messages:
+- Shutdown initiated
+
+Earliest Timestamp: 2025-01-15T10:00:15
+Latest Timestamp: 2025-01-15T10:02:33

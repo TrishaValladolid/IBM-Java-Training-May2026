@@ -1,0 +1,14 @@
+Log Summary Report
+------------------
+Total Entries: 8
+INFO: 3
+WARN: 2
+ERROR: 3
+
+Error Messages:
+- Failed to connect to cache server
+- Cache server unreachable after retry
+- Disk write error on partition /dev/sdb1
+
+Earliest Timestamp: 2025-01-15T08:00:01
+Latest Timestamp: 2025-01-15T08:07:10
